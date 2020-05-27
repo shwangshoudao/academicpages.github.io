@@ -9,7 +9,7 @@ redirect_from:
 ---
 I am a MS student majored in Statistics in School of Data Science at Fudan University, advised by Prof. [Jeff Hong](https://jeffhongliu.github.io/). 
 
-Prior studying in Fudan University, I obtained bachelor degree majored in Information and Computing Science from School of Mathematics, Shanghai University of Finance and Economics.
+Before studying in Fudan University, I obtained bachelor degree majored in Information and Computing Science from School of Mathematics, Shanghai University of Finance and Economics.
 
 
 
